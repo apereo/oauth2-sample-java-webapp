@@ -30,7 +30,7 @@ security:
   oauth2:
     client:
       clientId: client
-      clientSecret: test
+      clientSecret: secret
       accessTokenUri: https://mmoayyed.unicon.net:8443/cas/oauth2.0/accessToken
       userAuthorizationUri: https://mmoayyed.unicon.net:8443/cas/oauth2.0/authorize
       clientAuthenticationScheme: form
